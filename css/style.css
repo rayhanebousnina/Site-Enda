@@ -1,0 +1,14 @@
+.bg-green {
+    background-color: #b3bf37;
+}
+.nav-item {
+    color: #000000;
+    text-decoration: none;
+    background-color: transparent;
+}
+  
+.nav-item:hover {
+    color: #000000;
+    background-color: #c11d5e;
+    text-decoration: none;
+}
