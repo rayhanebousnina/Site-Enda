@@ -1,14 +1,16 @@
 .bg-green {
-    background-color: #b3bf37;
+    background-color: #b3bf3791;
 }
 .nav-item {
     color: #000000;
     text-decoration: none;
+    font-size: 1.2rem;
     background-color: transparent;
 }
   
 .nav-item:hover {
     color: #000000;
-    background-color: #c11d5e;
+    background-color: #c11d5f7e;
     text-decoration: none;
+    border-radius: 0.5rem;
 }
